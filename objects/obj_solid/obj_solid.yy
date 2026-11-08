@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Test",
+  "%Name":"obj_solid",
   "eventList":[],
   "managed":true,
-  "name":"Test",
+  "name":"obj_solid",
   "overriddenProperties":[],
   "parent":{
     "name":"Fucky Kong",
@@ -26,8 +26,14 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
-  "spriteMaskId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"sSolid",
+    "path":"sprites/sSolid/sSolid.yy",
+  },
+  "spriteMaskId":{
+    "name":"sSolid",
+    "path":"sprites/sSolid/sSolid.yy",
+  },
   "visible":true,
 }

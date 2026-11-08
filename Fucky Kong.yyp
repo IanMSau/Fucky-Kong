@@ -22,14 +22,14 @@
     {"id":{"name":"obj_platform_manager","path":"objects/obj_platform_manager/obj_platform_manager.yy",},},
     {"id":{"name":"obj_platform","path":"objects/obj_platform/obj_platform.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Andrew_Room","path":"rooms/Andrew_Room/Andrew_Room.yy",},},
     {"id":{"name":"s_platform","path":"sprites/s_platform/s_platform.yy",},},
     {"id":{"name":"sSolid","path":"sprites/sSolid/sSolid.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Andrew_Room","path":"rooms/Andrew_Room/Andrew_Room.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,20 +1,13 @@
 {
   "$GMObject":"",
-<<<<<<<< HEAD:objects/obj_solid/obj_solid.yy
   "%Name":"obj_solid",
   "eventList":[],
   "managed":true,
   "name":"obj_solid",
-========
-  "%Name":"oGroundTile",
-  "eventList":[],
-  "managed":true,
-  "name":"oGroundTile",
->>>>>>>> origin/Kolten/Character:objects/oGroundTile/oGroundTile.yy
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Fucky Kong",
+    "path":"Fucky Kong.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -33,7 +26,6 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-<<<<<<<< HEAD:objects/obj_solid/obj_solid.yy
   "solid":true,
   "spriteId":{
     "name":"sSolid",
@@ -43,13 +35,5 @@
     "name":"sSolid",
     "path":"sprites/sSolid/sSolid.yy",
   },
-========
-  "solid":false,
-  "spriteId":{
-    "name":"sGroundTile",
-    "path":"sprites/sGroundTile/sGroundTile.yy",
-  },
-  "spriteMaskId":null,
->>>>>>>> origin/Kolten/Character:objects/oGroundTile/oGroundTile.yy
   "visible":true,
 }

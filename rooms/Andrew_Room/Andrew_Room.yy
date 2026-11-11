@@ -17,8 +17,8 @@
   ],
   "name":"Andrew_Room",
   "parent":{
-    "name":"Fucky Kong",
-    "path":"Fucky Kong.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -17,6 +17,8 @@ enum PSTATE
 	JUMPSQUAT,
 	AIR,
 	LANDING,
+	ATTACKING,
+	HITSTUN
 }
 
 state_names = ["IDLE", "WALK", "DASH", "RUN", "SKID", "CROUCH", "JUMPSQUAT", "AIR", "LANDING"];

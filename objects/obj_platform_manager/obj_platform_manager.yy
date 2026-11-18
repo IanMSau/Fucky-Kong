@@ -10,8 +10,8 @@
   "name":"obj_platform_manager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fucky Kong",
-    "path":"Fucky Kong.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -7,13 +7,14 @@ for (var i = 0; i <= room_last; i++) {
     global.roomIndexes[i] = tmpName;
   }
 }
-
+//var _roomname = room_get_name(room);
 
 /// @function       keyboard_get_number()
 /// @description    Returns the pressed number key and -1 if none.
 
 checkinput = function()
 {
+	
 	return 
 	(
 	    (keyboard_key >= ord("0") && keyboard_key <= ord("9"))

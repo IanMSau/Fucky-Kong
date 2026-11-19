@@ -26,28 +26,28 @@ state_names = ["IDLE", "WALK", "DASH", "RUN", "SKID", "CROUCH", "JUMPSQUAT", "AI
 // movement stats, pixels per frame
 stats =
 {
-	gravity          : 0.30,
-	max_fall         : 4.0,
-	fast_fall        : 6.0,
+	gravity          : 0.30*10,
+	max_fall         : 4.0*10,
+	fast_fall        : 6.0*10,
 
-	walk_accel       : 0.25,
-	walk_max         : 1.2,
-	dash_speed       : 2.4,
+	walk_accel       : 0.25*10,
+	walk_max         : 1.2*10,
+	dash_speed       : 2.4*10,
 	dash_frames      : 10,   // dash dance window
-	run_accel        : 0.3,
-	run_max          : 2.4,
-	ground_friction  : 0.18,
-	skid_friction    : 0.16,
+	run_accel        : 0.3*10,
+	run_max          : 2.4*10,
+	ground_friction  : 0.18*10,
+	skid_friction    : 0.16*10,
 
-	air_accel        : 0.14,
-	air_max          : 1.7,
-	air_friction     : 0.03,
+	air_accel        : 0.14*10,
+	air_max          : 1.7*10,
+	air_friction     : 0.03*10,
 
 	jumpsquat_frames : 4,
-	full_hop         : -5.2,
-	short_hop        : -3.2,
-	double_jump      : -4.8,
-	jump_h_boost     : 0.6,  // how much the stick adds to hsp on jump
+	full_hop         : -5.2*10,
+	short_hop        : -3.2*10,
+	double_jump      : -4.8*10,
+	jump_h_boost     : 0.6*10,  // how much the stick adds to hsp on jump
 	max_jumps        : 2,
 	landing_frames   : 4,
 };

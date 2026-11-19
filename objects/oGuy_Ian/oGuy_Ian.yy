@@ -43,8 +43,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sGuy",
-    "path":"sprites/sGuy/sGuy.yy",
+    "name":"Guy_Idle",
+    "path":"sprites/Guy_Idle/Guy_Idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

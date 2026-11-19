@@ -46,6 +46,7 @@
     {"id":{"name":"sGroundTile","path":"sprites/sGroundTile/sGroundTile.yy",},},
     {"id":{"name":"sGuy_jab1","path":"sprites/sGuy_jab1/sGuy_jab1.yy",},},
     {"id":{"name":"sGuy","path":"sprites/sGuy/sGuy.yy",},},
+    {"id":{"name":"sHitBox","path":"sprites/sHitBox/sHitBox.yy",},},
     {"id":{"name":"sSolid","path":"sprites/sSolid/sSolid.yy",},},
   ],
   "resourceType":"GMProject",

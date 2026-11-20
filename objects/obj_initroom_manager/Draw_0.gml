@@ -1,3 +1,4 @@
+
 for (var i = 0; i < array_length(global.roomIndexes); i++)
 {
 	draw_text_transformed(x + 50, y + 100*i, "FOR: ", 4, 4, 0);
